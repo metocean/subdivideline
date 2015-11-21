@@ -1,0 +1,19 @@
+{
+  "name": "subdivideline",
+  "version": "1.0.0",
+  "description": "Callback n times along a 2D line from a to b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metocean/subdivideline.git"
+  },
+  "author": "Thomas Coats <t.coats@metocean.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metocean/subdivideline/issues"
+  },
+  "homepage": "https://github.com/metocean/subdivideline#readme"
+}
