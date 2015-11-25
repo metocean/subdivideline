@@ -1,6 +1,6 @@
 {
   "name": "subdivideline",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Callback n times along a 2D line from a to b",
   "main": "index.js",
   "scripts": {
