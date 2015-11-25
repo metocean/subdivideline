@@ -9,4 +9,4 @@ module.exports = (a, b, n, f) ->
   y = a[1]
   dy = if a[1] is b[1] then 0 else b[1] - a[1]
   for i in [0...n].map((i) -> i / n)
-    f([x + i * dx,y + i * dy]) is yes
+    return if f([x + i * dx,y + i * dy]) is yes
